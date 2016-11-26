@@ -1,9 +1,9 @@
 [
   {
-    "remote": "github",
+    "remote":      "github",
     "repository":  "XPerience-AOSP-Lollipop/android_kernel_motorola_msm8916-1",
     "target_path": "kernel/motorola/msm8916",
-    "branch": "xpe-11.1"
+    "branch":      "xpe-11.1"
   },
   {
     "target_path": "external/bson",
@@ -26,6 +26,6 @@
     "repository": "TheMuppets/proprietary_vendor_qcom_binaries",
     "target_path": "vendor/qcom/binaries",
     "branch": "cm-14.1"
-  },
+  }
 ]
 
