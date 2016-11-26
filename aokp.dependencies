@@ -13,9 +13,21 @@
   },
   {
     "remote": "github",
-    "repository": "XPerience-AOSP-Lollipop/android_device_qcom_common",
+    "repository": "Cyanogenmod/android_device_qcom_common",
     "target_path": "device/qcom/common",
+    "branch": "cm-14.1"
+  },
+    {
+    "remote": "github",
+    "repository": "XPerience-AOSP-Lollipop/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
     "branch": "xpe-11.1"
-  }
+  },
+    {
+    "remote": "github",
+    "repository": "TheMuppets/proprietary_vendor_qcom_binaries",
+    "target_path": "vendor/qcom/binaries",
+    "branch": "cm-14.1"
+  },
 ]
 
