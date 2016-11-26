@@ -1,0 +1,21 @@
+[
+  {
+    "remote": "github",
+    "repository":  "XPerience-AOSP-Lollipop/android_kernel_motorola_msm8916-1",
+    "target_path": "kernel/motorola/msm8916",
+    "branch": "xpe-11.1"
+  },
+  {
+    "remote": "github",
+    "repository": "XPerience-AOSP-Lollipop/android_external_bson",
+    "target_path": "external/bson",
+    "branch": "xpe-11.1"
+  },
+  {
+    "remote": "github",
+    "repository": "XPerience-AOSP-Lollipop/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch": "xpe-11.1"
+  }
+]
+
