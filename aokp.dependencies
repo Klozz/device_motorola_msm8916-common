@@ -7,8 +7,8 @@
   },
   {
     "remote":      "github",
-    "target_path": "XPerience-AOSP-Lollipop/android_external_bson",
-    "repository":  "external/bson",
+    "repository": "XPerience-AOSP-Lollipop/android_external_bson",
+    "target_path":  "external/bson",
     "branch":     "xpe-11.1"
   },
   {
