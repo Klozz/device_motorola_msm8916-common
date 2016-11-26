@@ -6,17 +6,16 @@
     "branch": "xpe-11.1"
   },
   {
-    "remote": "github",
-    "repository": "XPerience-AOSP-Lollipop/android_external_bson",
     "target_path": "external/bson",
-    "branch": "xpe-11.1"
+    "repository":  "android_external_bson",
+    "remote":      "cm"
   },
   {
     "remote": "github",
-    "repository": "Cyanogenmod/android_device_qcom_common",
+    "repository": "android_device_qcom_common",
     "target_path": "device/qcom/common",
-    "branch": "cm-14.1"
-  },
+    "branch": "cm"
+   },
     {
     "remote": "github",
     "repository": "XPerience-AOSP-Lollipop/proprietary_vendor_motorola",
